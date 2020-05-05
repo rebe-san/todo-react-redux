@@ -1,4 +1,4 @@
-### Todo App :rocket:
+## Todo App :rocket:
 App to add and delete todos.
 
 ## Learning objectives :green_book:
