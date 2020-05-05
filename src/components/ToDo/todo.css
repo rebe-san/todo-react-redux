@@ -1,0 +1,14 @@
+.section-todo{
+    margin: 20px auto;
+    border: solid 1px #ffffff;
+    border-radius: 10px;
+    width:60%;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.section-todo p{
+    padding: 3px 15px;
+    color:#f0f0f0;
+}
+
