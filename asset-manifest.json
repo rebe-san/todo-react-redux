@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rebe-san/TODO-react-redux/static/css/main.89b6b862.chunk.css",
+    "main.js": "/rebe-san/TODO-react-redux/static/js/main.fd08da3b.chunk.js",
+    "main.js.map": "/rebe-san/TODO-react-redux/static/js/main.fd08da3b.chunk.js.map",
+    "runtime-main.js": "/rebe-san/TODO-react-redux/static/js/runtime-main.2e4e1fd8.js",
+    "runtime-main.js.map": "/rebe-san/TODO-react-redux/static/js/runtime-main.2e4e1fd8.js.map",
+    "static/js/2.93c3803f.chunk.js": "/rebe-san/TODO-react-redux/static/js/2.93c3803f.chunk.js",
+    "static/js/2.93c3803f.chunk.js.map": "/rebe-san/TODO-react-redux/static/js/2.93c3803f.chunk.js.map",
+    "index.html": "/rebe-san/TODO-react-redux/index.html",
+    "precache-manifest.af058d32437b92e4a78eae5a530cbf81.js": "/rebe-san/TODO-react-redux/precache-manifest.af058d32437b92e4a78eae5a530cbf81.js",
+    "service-worker.js": "/rebe-san/TODO-react-redux/service-worker.js",
+    "static/css/main.89b6b862.chunk.css.map": "/rebe-san/TODO-react-redux/static/css/main.89b6b862.chunk.css.map",
+    "static/js/2.93c3803f.chunk.js.LICENSE.txt": "/rebe-san/TODO-react-redux/static/js/2.93c3803f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e4e1fd8.js",
+    "static/js/2.93c3803f.chunk.js",
+    "static/css/main.89b6b862.chunk.css",
+    "static/js/main.fd08da3b.chunk.js"
+  ]
+}
