@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/rebe-san/TODO-react-redux/static/css/main.89b6b862.chunk.css",
-    "main.js": "/rebe-san/TODO-react-redux/static/js/main.fd08da3b.chunk.js",
-    "main.js.map": "/rebe-san/TODO-react-redux/static/js/main.fd08da3b.chunk.js.map",
-    "runtime-main.js": "/rebe-san/TODO-react-redux/static/js/runtime-main.2e4e1fd8.js",
-    "runtime-main.js.map": "/rebe-san/TODO-react-redux/static/js/runtime-main.2e4e1fd8.js.map",
-    "static/js/2.93c3803f.chunk.js": "/rebe-san/TODO-react-redux/static/js/2.93c3803f.chunk.js",
-    "static/js/2.93c3803f.chunk.js.map": "/rebe-san/TODO-react-redux/static/js/2.93c3803f.chunk.js.map",
-    "index.html": "/rebe-san/TODO-react-redux/index.html",
-    "precache-manifest.1d84f229c3ac981004b62086977be61a.js": "/rebe-san/TODO-react-redux/precache-manifest.1d84f229c3ac981004b62086977be61a.js",
-    "service-worker.js": "/rebe-san/TODO-react-redux/service-worker.js",
-    "static/css/main.89b6b862.chunk.css.map": "/rebe-san/TODO-react-redux/static/css/main.89b6b862.chunk.css.map",
-    "static/js/2.93c3803f.chunk.js.LICENSE.txt": "/rebe-san/TODO-react-redux/static/js/2.93c3803f.chunk.js.LICENSE.txt"
+    "main.css": "/TODO-react-redux/static/css/main.89b6b862.chunk.css",
+    "main.js": "/TODO-react-redux/static/js/main.cb47d5be.chunk.js",
+    "main.js.map": "/TODO-react-redux/static/js/main.cb47d5be.chunk.js.map",
+    "runtime-main.js": "/TODO-react-redux/static/js/runtime-main.d9a2c68e.js",
+    "runtime-main.js.map": "/TODO-react-redux/static/js/runtime-main.d9a2c68e.js.map",
+    "static/js/2.93c3803f.chunk.js": "/TODO-react-redux/static/js/2.93c3803f.chunk.js",
+    "static/js/2.93c3803f.chunk.js.map": "/TODO-react-redux/static/js/2.93c3803f.chunk.js.map",
+    "index.html": "/TODO-react-redux/index.html",
+    "precache-manifest.35911e2d421fbed30cea166d7c7c8288.js": "/TODO-react-redux/precache-manifest.35911e2d421fbed30cea166d7c7c8288.js",
+    "service-worker.js": "/TODO-react-redux/service-worker.js",
+    "static/css/main.89b6b862.chunk.css.map": "/TODO-react-redux/static/css/main.89b6b862.chunk.css.map",
+    "static/js/2.93c3803f.chunk.js.LICENSE.txt": "/TODO-react-redux/static/js/2.93c3803f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2e4e1fd8.js",
+    "static/js/runtime-main.d9a2c68e.js",
     "static/js/2.93c3803f.chunk.js",
     "static/css/main.89b6b862.chunk.css",
-    "static/js/main.fd08da3b.chunk.js"
+    "static/js/main.cb47d5be.chunk.js"
   ]
 }
